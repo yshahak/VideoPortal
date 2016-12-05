@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VideoPortal</string>
+    <string name="hint_search">search...</string>
+</resources>
